@@ -8,7 +8,7 @@
 - **Name:** Heer Jitendrakumar Patel
 - **Registration Number:** 1000676
 - **School:** Udgam School for Children
-- **CRS:** Artificial Intelligence
+- **CRS:** Artificial Intelligence and interpretation
 - **Subject:** Python Programming
 - **Assessment:** FA2 — Formative Assessment 2
 
@@ -39,3 +39,11 @@ The application combines Python programming, calculations, user interaction, vis
 - CSS
 - JavaScript
 - Pillow (PIL), where required by the application
+- turtle
+
+Streamlit Link :https://fa9bb0bc03375d238950d41b551623e1cde47ba8-vhmsmnra9d5laxg9yc3eb.streamlit.app/
+
+Project partner : Dhara Parthiv Patel
+
+
+
